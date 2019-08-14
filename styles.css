@@ -1,0 +1,25 @@
+#main-header {
+    
+    background-color: #223646;
+    color: white;
+    font-family: 'PT Sans', sans-serif;
+    
+    
+    
+}
+
+.container-header { 
+    
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between
+}
+
+#main-footer{
+    background-color: #223646;
+    
+}
+
+.body {
+    background-image: url(./imagesportfolio/backgroundfancy.png);
+}
